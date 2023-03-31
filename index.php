@@ -3,7 +3,7 @@
 
 class Personnage
 {
-    private $pseudo;
+    private $pseudo; 
     private $lvl;
     private $xp;
 
